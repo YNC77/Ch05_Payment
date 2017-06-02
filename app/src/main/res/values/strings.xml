@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ch05_Payment</string>
+    <string name="paymentCredit">Credit Card</string>
+    <string name="paymentPalPay">PalPay</string>
+    <string name="paymentCOD">Cash  on delivery</string>
+    <string name="paymentCheck">NEXT</string>
+    <string name="paymentHint">Please Choose</string>
+    <string name="quantity1">USD 25/mo</string>
+    <string name="quantity2">USD 30/mo</string>
+    <string name="quantity3">USD 50/mo</string>
+</resources>
